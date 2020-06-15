@@ -546,7 +546,7 @@
 .. |sdk-go| replace:: AWS SDK for Go
 .. |sdk-ios| replace:: AWS Mobile SDK for iOS
 .. |sdk-java| replace:: AWS SDK for Java
-.. |sdk-java-v2| replace:: AWS SDK for Java 2.0
+.. |sdk-java-v2| replace:: AWS SDK for Java v2
 .. |sdk-js| replace:: AWS SDK for JavaScript
 .. |sdk-net| replace:: AWS SDK for .NET
 .. |sdk-nodejs| replace:: AWS SDK for JavaScript
@@ -972,9 +972,9 @@
 .. |sdk-ios-dg| replace:: :title:`AWS Mobile SDK for iOS Developer Guide`
 .. |sdk-ios-gsg| replace:: :title:`AWS Mobile SDK for iOS Getting Started Guide`
 .. |sdk-java-api| replace:: :title:`AWS SDK for Java API Reference`
-.. |sdk-java-api-v2| replace:: :title:`AWS SDK for Java 2.0 API Reference`
+.. |sdk-java-api-v2| replace:: :title:`AWS SDK for Java v2 API Reference`
 .. |sdk-java-dg| replace:: :title:`AWS SDK for Java Developer Guide`
-.. |sdk-java-dg-v2| replace:: :title:`AWS SDK for Java 2.0 Developer Guide`
+.. |sdk-java-dg-v2| replace:: :title:`AWS SDK for Java v2 Developer Guide`
 .. |sdk-java-ref| replace:: |sdk-java-api|
 .. |sdk-java-ref-v2| replace:: |sdk-java-api-v2|
 .. |sdk-js-dg| replace:: :title:`AWS SDK for JavaScript Developer Guide`
